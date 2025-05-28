@@ -11,9 +11,8 @@ This is a simple Java-based project designed to manage driver data for Thomas Tr
 
 ## Technologies Used
 - Java (OOP concepts)
-- Collections (ArrayList, etc.)
-- Basic file handling (if used)
-- IDE: Eclipse / IntelliJ IDEA (mention yours)
+- Arrays
+- IDE: Eclipse
   
 ## How to Run
 1. Clone the repository:
